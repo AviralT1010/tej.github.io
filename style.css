@@ -148,8 +148,9 @@ header{
 
 header .logo{
     color:#fff;
-    font-size: 30px;
+    font-size:  2.5rem;
 }
+
 
 header .navbar ul{
     display: flex;
